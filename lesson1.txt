@@ -15,3 +15,6 @@ create or open a file in this folder. add this file with git add filename comman
 try deleting it with Git rm --cached <filename>
 and git rm <filename>
 and rm <filename>
+try using other commands like git diff, git show, git reset, and git revert.
+git reset changes the position of the head to new location specified by the commit id. 
+while git revert will change the content in the commit id to its previous state before the commit.
