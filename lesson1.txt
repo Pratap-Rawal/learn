@@ -13,5 +13,9 @@ check the content of this folder by typing ls -la in the command line this will 
 create or open a file in this folder. add this file with git add filename command to track it in git.
 
 try deleting it with Git rm --cached <filename>
-and git rm <filename>
-and rm <filename>
+and "git rm <filename>"
+and "rm <filename>"
+
+the file will be removed only from the staged area when we use the cached noun with git rm. 
+the file is deleted from the local folder, if we use rm command. 
+"git rm filename" removes files from GitHub and local folder.
