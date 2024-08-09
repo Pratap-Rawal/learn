@@ -4,4 +4,5 @@ To see such folder we must use "ls -a" command to view
 to paste copied content in the terminal use "control shift V"
 controle V does not work here.
 
-after deleting file using "git rm <filename>" the changes once committed and pushed dremove the file from all local folder, and git hub/
+after deleting file using "git rm <filename>" the changes once committed and pushed; remove the file from all, the local folder, the staging area and GitHub.
+
