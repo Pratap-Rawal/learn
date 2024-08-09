@@ -18,4 +18,5 @@ and "rm <filename>"
 
 the file will be removed only from the staged area when we use the cached noun with git rm. 
 the file is deleted from the local folder, if we use rm command. 
-"git rm filename" removes files from GitHub and local folder.
+
+"git rm filename". file is removed from all the staging area , the working directory and the github if it committed and pushed
