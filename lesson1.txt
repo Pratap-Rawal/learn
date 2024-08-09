@@ -1,20 +1,21 @@
-git and github are different.
-git is a sofware in your devise while git hub is in the cloud
+git and GitHub are different.
+git is a software in your device while git hub is in the cloud
 git helps coordinate with the git hub
 
-After downloading the git software form ![link](https://git-scm/download)
-open a folder in your computer.
-open this folder in VSCODE
-check your workig directory using pwd command in terminal
+After downloading the git software form![link](https://git-scm/download)
+open a folder on your computer.
+open this folder in vscode
+check your working directory using pwd command in the terminal
 if the working directory is ok then initiate git in this folder by typing "git init" in the command line.
 
 check the content of this folder by typing ls -la in the command line this will show even the hidden folders.
 
-create or open a file in this folder. add this file with git add filename command to track it in git.
+create or open a file in this folder. Add this file with git and add the filename command to track it in git.
 
 try deleting it with Git rm --cached <filename>
 and git rm <filename>
 and rm <filename>
+
 try using other commands like git diff, git show, git reset, and git revert.
-git reset changes the position of the head to new location specified by the commit id. 
-while git revert will change the content in the commit id to its previous state before the commit.
+"git reset" changes the position of the head to a new location specified by the commit ID. 
+while "git revert" will change the content in the commit ID to its previous state before the commit.
