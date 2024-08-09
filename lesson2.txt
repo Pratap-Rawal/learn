@@ -1,0 +1,3 @@
+name with a leading dot make a folder hidden.
+To see such folder we must use "ls -a" command to view
+ 
